@@ -1,0 +1,92 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 13,
+    "Container2": 5,
+    "Container3": 11,
+    "Host": 3,
+    "Icon3": 10,
+    "Image3": 6,
+    "Label1": 7,
+    "Label2": 9,
+    "Label3": 8,
+    "Label4": 12,
+    "Screen1": 4
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "11/28/2023 19:49:45",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {
+    "Leave-management-OfficeTimer": "919bf216-1f5d-47e2-a500-da87a52b8e51.png"
+  },
+  "LocalResourceRootPaths": {
+    "Leave-management-OfficeTimer": "https://docserverpwaprodeus.blob.core.windows.net/fb43edd8-c93b-4047-8971-5f787c2f6bcb-1/resource/Assets0Images0919bf216-1f5d-47e2-a500-da87a52b8e51.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2023-11-28T19%3A46%3A02Z&ske=2023-11-29T20%3A01%3A02Z&sks=b&skv=2021-12-02&sv=2021-12-02&spr=https&se=2023-11-29T20%3A01%3A02Z&sr=b&sp=r&sig=zeVkHVmRQYXetpkCeXA7jjePD%2FKTdBW2Xms0UranlLk%3D"
+  },
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 4,
+    "groupContainer": 0,
+    "icon": 3,
+    "image": 1,
+    "label": 2
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Button1": {},
+    "Container2": {},
+    "Container3": {},
+    "Host": {},
+    "Icon3": {},
+    "Image3": {},
+    "Label1": {},
+    "Label2": {},
+    "Label3": {},
+    "Label4": {},
+    "Screen1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 8,
+    "Container2": 0,
+    "Container3": 6,
+    "Host": 0,
+    "Icon3": 5,
+    "Image3": 1,
+    "Label1": 2,
+    "Label2": 4,
+    "Label3": 3,
+    "Label4": 7,
+    "Screen1": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-Leave-management-OfficeTimer": 0,
+    "Image-SampleImage": 1
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.080106,
+    "ControlCount": {
+      "button": 1,
+      "groupContainer": 2,
+      "icon": 1,
+      "image": 1,
+      "label": 4,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 3.4481801
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
