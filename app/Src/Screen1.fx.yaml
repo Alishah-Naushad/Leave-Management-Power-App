@@ -1,15 +1,15 @@
 Screen1 As screen:
 
     Container2 As groupContainer.manualLayoutContainer:
-        Height: =768
-        Width: =820
+        Height: =354
+        Width: =1366
         ZIndex: =1
 
         Image3 As image:
-            Height: =768
+            Height: =354
             Image: ='Leave-management-OfficeTimer'
             ImagePosition: =ImagePosition.Fill
-            Width: =820
+            Width: =1366
             ZIndex: =1
 
         Label1 As label:
@@ -21,7 +21,8 @@ Screen1 As screen:
             Size: =50
             Text: ="Leave Management System"
             Width: =820
-            Y: =173
+            X: =279
+            Y: =27
             ZIndex: =2
 
         Label2 As label:
@@ -31,14 +32,14 @@ Screen1 As screen:
             Size: =35
             Text: ="Leave"
             Width: =154
-            X: =156
-            Y: =403
+            X: =476
+            Y: =163
             ZIndex: =3
 
         Icon3 As icon.ArrowRight:
             Icon: =Icon.ArrowRight
-            X: =355
-            Y: =406
+            X: =651
+            Y: =164
             ZIndex: =4
 
         Label3 As label:
@@ -47,13 +48,13 @@ Screen1 As screen:
             Size: =35
             Text: ="Request"
             Width: =212
-            X: =462
-            Y: =400
+            X: =748
+            Y: =162
             ZIndex: =5
 
     Container3 As groupContainer.manualLayoutContainer:
-        X: =844
-        Y: =118
+        X: =81
+        Y: =423
         ZIndex: =2
 
         Label4 As label:
@@ -68,6 +69,27 @@ Screen1 As screen:
         Button1 As button:
             Height: =47
             Text: ="Login as an employee"
+            Width: =252
+            X: =116
+            Y: =95
+            ZIndex: =2
+
+    Container3_1 As groupContainer.manualLayoutContainer:
+        X: =812
+        Y: =423
+        ZIndex: =3
+
+        Label4_1 As label:
+            Height: =47
+            Text: ="TO APPROVE OR DECLINE LEAVE"
+            Width: =284
+            X: =100
+            Y: =48
+            ZIndex: =1
+
+        Button1_1 As button:
+            Height: =47
+            Text: ="Login as an manager"
             Width: =252
             X: =116
             Y: =95
